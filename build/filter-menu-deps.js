@@ -1,0 +1,1 @@
+modulex.config("requires",{"filter-menu":["menu","component/extension/content-box","util","xtemplate/runtime"]});
