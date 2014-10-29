@@ -1,6 +1,6 @@
 # filter-menu
 
-
+ui filter-menu
 
 [![filter-menu](https://nodei.co/npm/modulex-filter-menu.png)](https://npmjs.org/package/modulex-filter-menu)
 [![NPM downloads](http://img.shields.io/npm/dm/modulex-filter-menu.svg)](https://npmjs.org/package/modulex-filter-menu)
